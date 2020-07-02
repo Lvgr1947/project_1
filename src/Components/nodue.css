@@ -1,0 +1,23 @@
+li, p {
+    line-height: 1.5;
+  }
+h2, h3{
+    text-Align: center
+}
+
+  body {
+    background-color: rgb(255, 255, 255);
+    font-size: medium;
+    padding: '60px';
+    text-indent: 0%;
+    border:200px;
+  }
+  
+  @media screen and (min-width: 800px) {
+    body {
+      align-content: center;
+      /* background-color: lightgreen; */
+      font-size: large;
+    }
+  }
+  

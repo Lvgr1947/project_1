@@ -1,0 +1,11 @@
+
+.container {
+    max-width: max-content;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: rgb(241, 233, 233);
+  }
+  table{
+    background-color: rgb(223, 219, 219);
+  }
+  
